@@ -1,0 +1,9 @@
+com\mycompany\todoexample\JakartaRestConfiguration.class
+com\mycompany\todoexample\exception\service\exception\TodoException.class
+com\mycompany\todoexample\dao\TaskDao.class
+com\mycompany\todoexample\service\TodoService.class
+com\mycompany\todoexample\dao\UserDao.class
+com\mycompany\todoexample\model\User.class
+com\mycompany\todoexample\controller\UserServlet.class
+com\mycompany\todoexample\model\Task.class
+com\mycompany\todoexample\controller\TaskServlet.class
